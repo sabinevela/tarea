@@ -1,7 +1,9 @@
+import { ArregloConObjetos } from "./CuartoEjercicio/ArregloConObjetos";
 import { EjercicioCuadrado } from "./PrimerEjercicio/EjercicioCuadrado";
 import { BotonesEjercicio } from "./QuintoEjercicio/BotonesEjercicio";
 import { Arreglo } from "./SegundoEjercicio/Arreglo";
 import { ArregloConMap } from "./TercerEjercicio/ArregloConMap";
+
 const App = () => {
   return(
     <div>
@@ -9,7 +11,8 @@ const App = () => {
       {/*<EjercicioCuadrado/>*/}
       {/*<Arreglo/>*/}
       {/*<ArregloConMap/>*/}
-      <BotonesEjercicio/>
+      {/*<BotonesEjercicio/>*/}
+      <ArregloConObjetos/>
       </div>)
   
 };
