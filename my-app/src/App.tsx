@@ -12,7 +12,7 @@ const App = () => {
       {/*<Arreglo/>*/}
       {/*<ArregloConMap/>*/}
       {/*<BotonesEjercicio/>*/}
-      <ArregloConObjetos/>
+      {/*<ArregloConObjetos/>*/}
       </div>)
   
 };
